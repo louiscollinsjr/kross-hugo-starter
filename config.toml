@@ -6,7 +6,7 @@ title = "Kross | Hugo Portfolio Template"
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 1
+weight = 5
 [params]
 address = "125/A, CA Commercial Area, California, USA"
 author = "Johnathan Smith"
